@@ -1,0 +1,8 @@
+# Dataset too large for GitHub
+data/creditcard.csv
+data/*.csv
+
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
